@@ -23,30 +23,6 @@ Berikut adalah beberapa mini project yang tersedia dalam repository ini:
 - Matplotlib, Seaborn
 - NLTK / SpaCy (untuk NLP)
 
-## 💡 Cara Menggunakan Repository Ini
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/machine-learning-mini-projects.git
-   ```
-2. Masuk ke direktori:
-   ```bash
-   cd machine-learning-mini-projects
-   ```
-3. Buat environment virtual (opsional tapi direkomendasikan):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Untuk macOS/Linux
-   venv\Scripts\activate  # Untuk Windows
-   ```
-4. Install dependensi:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Pilih mini project yang ingin Anda eksplorasi dan jalankan skripnya:
-   ```bash
-   python project_name.py
-   ```
-
 ## 📂 Struktur Folder
 ```
 machine-learning-mini-projects/
