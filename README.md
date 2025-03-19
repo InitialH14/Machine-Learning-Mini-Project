@@ -14,6 +14,7 @@ Berikut adalah beberapa mini project yang tersedia dalam repository ini:
 5. **Adaboost Algorithm** - Prediksi harga berlian.
 6. **T5** - Generator tanya-jawab berdasarkan teks yang dibaca
 7. **GPT** - Generator puisi
+8. **Computer Vision** -  Klasifikasi dan pengenalan gambar
 
 ## 🛠 Teknologi yang Digunakan
 - Python
